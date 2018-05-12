@@ -1,0 +1,30 @@
+_repo: Taxonomy-and-Distribution-of-Some-American-Shrews_31088
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Findley, James S. (James Smith)
+    alias: Findley, James Smith
+    birthdate: 1926
+    gutenberg_agent_id: '35694'
+    url: http://www.gutenberg.org/2009/agents/35694
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Mammals
+gutenberg_issued: '2010-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31088'
+  lccn: '55063239'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Shrews'
+title: Taxonomy and Distribution of Some American Shrews
+url: http://www.gutenberg.org/ebooks/31088
